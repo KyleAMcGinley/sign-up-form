@@ -53,6 +53,14 @@ body{
 .right-side-of-page{
     display: flex;
     flex-direction: column;
+    justify-content: center;
     height: 100%;
     width: 65%;
+}
+
+.right-top, .right-body, .right-bottom{
+    padding-right: 100px;
+    padding-left: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
