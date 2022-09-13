@@ -1,0 +1,10 @@
+html,body{
+    height: 100%;
+}
+
+html{
+    background-image: url("../sign-up-form/signupformbackgroun.jpg");
+    background-repeat: no-repeat;
+    background-size: 40% 100%;
+    background-position: left;
+}
