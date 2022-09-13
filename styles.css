@@ -1,3 +1,8 @@
+@font-face{
+    font-family: norse;
+    src: url(../Fonts/Norse-Bold.otf);
+}
+
 html,body{
     height: 100%;
     margin: 0px;
@@ -10,4 +15,8 @@ html,body{
     background-image: url("../sign-up-form/signupformbackgroun.jpg");
     background-repeat: no-repeat;
     background-size: auto 100%;
+}
+
+.logo{
+    font-family: norse;
 }
