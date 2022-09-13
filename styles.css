@@ -52,6 +52,7 @@ body{
 
 .right-side-of-page{
     display: flex;
+    flex-direction: column;
     height: 100%;
     width: 65%;
 }
